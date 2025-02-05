@@ -1,4 +1,4 @@
-## Community-Connect##
+## Community-Connect ##
 # Introduction to AI #
 ![VideoCapture_20240706-093343](https://github.com/user-attachments/assets/e6b31177-6b77-461c-bc64-8e846620a53c)
 My objective in teaching "Introduction to AI" at HIJLI HIGH School was to share my
